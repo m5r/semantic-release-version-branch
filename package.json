@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-version-branch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create and update version branches during release",
   "main": "dist/index.js",
   "files": [
